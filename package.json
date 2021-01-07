@@ -1,7 +1,7 @@
 {
-  "name": "daniel-tockan-portfolio",
-  "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "http://danieltockan.com",
+  "name": "daniel-tockan-website",
+  "description": "My portfolio website",
+  "homepage": "https://danieltockan.com",
   "version": "2.0.0",
   "private": true,
   "author": {
