@@ -2037,6 +2037,10 @@ input, select, textarea {
 
 /* Image */
 
+.navy {
+  color:  rgb(49, 80, 115);
+}
+
 	.image {
 		border-radius: 0.35em;
 		border: 0;
@@ -2690,8 +2694,8 @@ input, select, textarea {
 
 		#main > section {
 			border-top: solid 2px #efefef;
-			margin: 4em 0 0 0;
-			padding: 4em 0 0 0;
+			margin: 2em 0 0 0;
+			padding: 2em 0 0 0;
 		}
 
 			#main > section:first-child {
@@ -3218,4 +3222,21 @@ input, select, textarea {
 				padding-left: 0;
 			}
 
-	}
+  }
+
+  #skills {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .title {
+    border-bottom: 2px solid #41eec8;
+    display: flex;
+    align-items: center;
+    width: 75%;
+    justify-content: flex-start;
+    padding-bottom: 5px;
+  }
+
+  
