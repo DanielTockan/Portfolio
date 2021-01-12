@@ -3239,4 +3239,10 @@ input, select, textarea {
     padding-bottom: 5px;
   }
 
+  p {
+    color:  rgb(43, 46, 49);
+  }
   
+  .red {
+    color:red;
+  }
