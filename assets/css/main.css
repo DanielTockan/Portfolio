@@ -3255,3 +3255,8 @@ input, select, textarea {
   .red {
     color:red;
   }
+
+  .small {
+  font-size: 12px;
+  text-align: center;
+  }
